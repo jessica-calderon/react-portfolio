@@ -6,6 +6,7 @@ import "react-multi-carousel/lib/styles.css";
 // import arrow1 from "../assets/img/arrow1.svg";
 // import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png";
+import TagCloud from "TagCloud";
 
 export const Skills = () => {
   const responsive = {
@@ -37,6 +38,9 @@ export const Skills = () => {
               <h2>Skills</h2>
               <p>
                 Full Stack Web Developer specializing in Front End UI/UX development and design.
+              </p>
+              <p>
+
               </p>
               <Carousel
                 responsive={responsive}
