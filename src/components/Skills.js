@@ -27,7 +27,7 @@ export const Skills = () => {
       items: 1,
     },
   };
-
+// TODO: update skills, remove placeholders
   return (
     <section className="skill" id="skills">
       <div className="skillsCloud">
@@ -36,7 +36,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-Full Stack Web Developer specializing in Front End UI/UX development and design.
+                Full Stack Web Developer specializing in Front End UI/UX development and design.
               </p>
               <Carousel
                 responsive={responsive}

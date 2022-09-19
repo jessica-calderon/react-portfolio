@@ -13,6 +13,8 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
+// TODO: site archive object and section stuff
+
 export const Projects = () => {
 
   const projects = [
@@ -62,7 +64,12 @@ export const Projects = () => {
         imgUrl: projImg9,
         }
   ];
-
+  
+// TODO: add repo and demo links 
+// TODO: Modal popups
+// TODO: Site Archive Project Cards and Section
+// TODO: add (or delete?) CodePen Stuff...
+// TODO: kinda wanna fix the screenshots too.... not super into them
   return (
     <section className="project" id="project">
       <Container>

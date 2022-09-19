@@ -4,6 +4,7 @@ import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/nav-icon2.svg";
 
+// TODO: Fix links and top margin spacing 
 export const Footer = () => {
   return (
     <footer className="footer">
