@@ -36,7 +36,7 @@ Visit live website at: https://jessica-calderon.github.io/portfolio/
 ## [Application Preview](#table-of-contents)
 Click the image to see the website.
 
-<a href='' alt=''><img src=''></a>
+<a href='' alt=''><img src='./src/assets/img/preview.png' width="800px"></a>
 
 ## [Questions](#table-of-contents)
 Questions? Please contact me at the following links: <br>
